@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='C:/Users/ABIPRAVI/AppData/Local/nvim/plugged'
+let g:netrw_dirhist_3='C:\Users\ABIPRAVI\AppData\Local\nvim'
+let g:netrw_dirhist_2='C:/Users/ABIPRAVI/AppData/Local/nvim/plugged'
+let g:netrw_dirhist_1='C:\Users\ABIPRAVI\AppData\Local\nvim'
+let g:netrw_dirhist_0='C:/Users/ABIPRAVI/AppData/Local/nvim/plugged'
+let g:netrw_dirhist_9='C:/Users/ABIPRAVI/AppData/Local/nvim/plugged/telescope.nvim'
+let g:netrw_dirhist_8='C:/Users/ABIPRAVI/AppData/Local/nvim/plugged/telescope.nvim/doc'
+let g:netrw_dirhist_7='C:\Users\ABIPRAVI\AppData\Local\nvim\plugged\telescope.nvim\doc'
+let g:netrw_dirhist_6='C:/Users/ABIPRAVI/AppData/Local/nvim'
+let g:netrw_dirhist_5='F:/finance/FINANCE SOFTWARE/app/finapp/finapp/components/history'
